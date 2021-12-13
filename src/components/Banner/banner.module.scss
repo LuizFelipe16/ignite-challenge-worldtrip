@@ -1,0 +1,12 @@
+.banner {
+  width: 100vw;
+  height: 15rem;
+
+  padding: 2.5rem;
+  background-image: url('/Background.svg');
+
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+}

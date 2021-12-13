@@ -1,0 +1,33 @@
+.my_swiper {
+  margin-top: 2rem;
+  margin-bottom: 4rem;
+  
+  position: relative;
+
+  img {
+    cursor: pointer;
+  }
+}
+
+.swiper_text {
+  font-size: 1.2rem;
+  color: #FFF;
+  position: absolute;
+
+  line-height: 2.6rem;
+  
+  strong {
+    font-size: 2.2rem;
+    color: #FFBA08;
+  }
+}
+
+.my_next_swiper {
+  background: #FFBA08 !important;
+  color: #FFBA08 !important;
+  font-size: 10px !important;
+}
+
+.my_prev_swiper {
+  background: #FFBA08;
+}

@@ -50,10 +50,10 @@ Features
 =================
 <br/>
 
-- [x] Interface created with Chakra UI
-- [x] Responsiveness
-- [x] Image carousel with the Swiper lib
-- [x] Styling with SASS
+- [x] ✅ Interface created with Chakra UI
+- [x] ✅ Responsiveness
+- [x] ✅ Image carousel with the Swiper lib
+- [x] ✅ Styling with SASS
 
 
 <br/>

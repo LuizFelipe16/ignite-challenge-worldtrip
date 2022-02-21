@@ -2,7 +2,7 @@
 
 <br/>
 
-# Worldtrip.
+# .Worldtrip
 
 ### Ignite Challenge Project! Its objective is to elaborate/train the creation of interfaces with   Design System Chakra UI, futuristic and with total responsiveness of Mobile platforms.
 
